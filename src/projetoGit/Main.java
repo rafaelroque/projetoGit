@@ -3,7 +3,11 @@ package projetoGit;
 public class Main {
 	
 	public static void main(String[] args) {
-		System.out.println("Master alterada");
+
+		System.out.println("Merge realizado");
+
+		
+
 	}
 
 }
