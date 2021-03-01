@@ -8,5 +8,9 @@ String x = "merge feito";
 		
 
 	}
+	
+	public static String metodoNovo() {
+		return null;
+	}
 
 }
