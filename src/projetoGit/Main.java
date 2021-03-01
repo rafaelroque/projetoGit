@@ -3,7 +3,9 @@ package projetoGit;
 public class Main {
 	
 	public static void main(String[] args) {
-String x = "branch1";		
+
+String x = "merge feito";		
+		
 
 	}
 
